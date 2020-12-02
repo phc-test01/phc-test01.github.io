@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "com.samsungsds.nexsign.client.flutter.uma.oip",
+                "appIDs": "LLVDH2GU5H.com.samsungsds.nexsign.client.flutter.uma.oip",
                 "paths": [
                     "/*/*/*/dgauth/mfa/uma-uaf"
                 ]
