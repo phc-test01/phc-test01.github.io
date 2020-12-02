@@ -1,0 +1,14 @@
+
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "com.samsungsds.nexsign.client.flutter.uma.oip",
+                "paths": [
+                    "/*/*/*/dgauth/mfa/uma-uaf"
+                ]
+            }
+        ]
+    }
+}
