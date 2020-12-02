@@ -1,0 +1,30 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="text/javascript">
+        function bind() {
+           var jti = document.getElementById("jtiSlim").value;
+           location.href = 'https://fdev.ez-auth.net/nexsign-server-ora/MPHTOCHW5I/131eaa5a-095f-4168-b1da-22c8e8a33cca/dgauth/mfa/uma-uaf?jti_slim='+jti+'&service_op=bind&exp=1599198785'
+        }
+        function auth() {
+           var jti = document.getElementById("jtiSlim").value;
+           location.href = 'https://fdev.ez-auth.net/nexsign-server-ora/MPHTOCHW5I/131eaa5a-095f-4168-b1da-22c8e8a33cca/dgauth/mfa/uma-uaf?jti_slim='+jti+'&service_op=auth&appId=131eaa5a-095f-4168-b1da-22c8e8a33cca&exp=1599198785'
+        }
+    </script>
+</head>
+<body>
+<h2>
+    <a id="bindLink" data-role='button'>AppLink Test</a><br><br>
+</h2>
+<h3>
+    <label for="jtiSlim">JTI-Slim: </label>
+    <input type="text" id="jtiSlim" required size="10"><br><br>
+    <button id="btnBind" onclick="bind()">Bind</button><br><br>
+    <button id="btnAuth" onclick="auth()">Auth</button><br><br>
+</h3>
+<p>
+    <i>Only works on android!</i>
+</p>
+</body>
+</html>
