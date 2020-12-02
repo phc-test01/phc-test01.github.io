@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "LLVDH2GU5H.com.samsungsds.nexsign.client.flutter.uma.oip",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
