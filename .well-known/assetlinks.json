@@ -4,5 +4,6 @@
             "namespace": "android_app",
             "package_name": "com.samsungsds.nexsign.client.flutter.uma.oip",
             "sha256_cert_fingerprints": ["0D:9C:B6:17:CB:09:AD:60:E5:05:90:94:27:37:B5:22:8E:67:A1:B6:54:86:55:99:6D:BA:A0:A3:8F:9F:09:39"]
-    }
+    },
+    "test": "test"
 }]
