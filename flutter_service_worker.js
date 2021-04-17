@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "dc9d6b71a10b9ba9bfed51491a5618cb",
-"index.html": "32a4b76a5adf572b916f381440853c0e",
-"/": "32a4b76a5adf572b916f381440853c0e",
+"index.html": "ad4442d628cccbd7d784ce4ab4bc0a14",
+"/": "ad4442d628cccbd7d784ce4ab4bc0a14",
 "main.dart.js": "2bb0142f7f9e9ba5294136ebde6b2953",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -13,7 +13,7 @@ const RESOURCES = {
 "manifest.json": "64077cbb3a05d1d7073434ff307fd8ab",
 "assets/ironman.png": "05e79f0f269794aaa84c04a140b68d67",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/NOTICES": "eea531d3922437d32b3e93528672f281",
+"assets/NOTICES": "d142e5c8407a222d203e9d79508eb42e",
 "assets/FontManifest.json": "bba6de124be1c7617d70d89641b3b25f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/Merriweather-Regular.ttf": "f96a44b40f99ae4b63f275f1142f7c98",
